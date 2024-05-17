@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="alura.png" alt="logo alurastart" srcset="">
+    <img src="alura.png" alt="logo alurastart">
 </body>
 </html>
